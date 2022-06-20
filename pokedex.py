@@ -16,4 +16,10 @@ pokedex = [
 		"types": ["Water"],
 		"baseStats": {"hp": 55, "atk": 55, "def": 45, "spa": 63, "spd": 45, "spe": 45},
 	},
+ 
+ {
+		"name": "Charmander",
+		"types": ["Fire"],
+		"baseStats": {"hp": 39, "atk": 52, "def": 43, "spa": 60, "spd": 50, "spe": 65},
+	},
 ]
